@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "516271055903",
+    "project_id": "uschat-ed209",
+    "storage_bucket": "uschat-ed209.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516271055903:android:a85c09f13901133578612a",
+        "android_client_info": {
+          "package_name": "com.example.uschat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "516271055903-8o5vd2rqfv0lr9hbt0osnmfrhidppq4q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6DD0Jy5mNq37ECrXwNF8edEtazXDXzrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "516271055903-8o5vd2rqfv0lr9hbt0osnmfrhidppq4q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
